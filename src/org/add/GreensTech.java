@@ -23,8 +23,12 @@ private void greensAnnaNagar() {
 System.out.println("greensAnnaNagar");
 }
 
+
 private void greensMadras() {
 System.out.println("greensMadras");
+}
+private void greensChennai() {
+System.out.println("greensChennai");
 }
 
 public static void main(String[] args) {
@@ -35,7 +39,7 @@ public static void main(String[] args) {
 	a.greensVelacherry();
 	a.greensAnnaNagar();
 	a.greensMadras();
-	
+	a.greensChennai();
 }
 
 }
